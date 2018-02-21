@@ -31,5 +31,5 @@ var example = 'some string';
 Чтобы удостовериться в правильности решения задачи, запустите следующую команду из терминала:
 
 ```bash
-javascripting verify variables.js
+npm run javascripting verify ./06week/javascripting/variables.js
 ```

@@ -28,5 +28,5 @@ Sinon, affichez **« The fruit name has five characters or less. »**
 Vérifiez si votre programme est correct en exécutant la commande :
 
 ```bash
-javascripting verify instruction-conditionnelle.js
+npm run javascripting verify ./06week/javascripting/instruction-conditionnelle.js
 ```

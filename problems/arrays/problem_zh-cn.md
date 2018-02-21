@@ -15,5 +15,5 @@ var pets = ['cat', 'dog', 'rat'];
 运行下面的命令检查你的程序是否正确：
 
 ```bash
-javascripting verify arrays.js
+npm run javascripting verify ./06week/javascripting/arrays.js
 ```

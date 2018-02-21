@@ -41,5 +41,5 @@ pets[i] = pets[i] + 's';
 运行下面的命令检查你的程序是否正确：
 
 ```bash
-javascripting verify looping-through-arrays.js
+npm run javascripting verify ./06week/javascripting/looping-through-arrays.js
 ```

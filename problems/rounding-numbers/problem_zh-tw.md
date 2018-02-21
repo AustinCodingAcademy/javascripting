@@ -25,5 +25,5 @@ Math.round(0.5);
 執行下面的命令檢查你寫的程式是否正確：
 
 ```bash
-javascripting verify rounding-numbers.js
+npm run javascripting verify ./06week/javascripting/rounding-numbers.js
 ```

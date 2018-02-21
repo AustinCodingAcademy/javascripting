@@ -28,5 +28,5 @@ if (n > 1) {
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
 ```bash
-javascripting verify if-statement.js
+npm run javascripting verify ./06week/javascripting/if-statement.js
 ```

@@ -20,5 +20,5 @@ Bruk `console.log()` for å skrive ut resultatet av `.toString()` metoden til sk
 Se om programmet ditt er riktig ved å kjøre denne kommandoen:
 
 ```bash
-javascripting verify number-to-string.js
+npm run javascripting verify ./06week/javascripting/number-to-string.js
 ```

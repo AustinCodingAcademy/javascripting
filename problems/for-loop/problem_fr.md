@@ -34,5 +34,5 @@ Après la boucle, utilisez `console.log()` pour afficher la variable `total` dan
 Vérifiez si votre programme est correct en exécutant la commande :
 
 ```bash
-javascripting verify boucle-for.js
+npm run javascripting verify ./06week/javascripting/boucle-for.js
 ```

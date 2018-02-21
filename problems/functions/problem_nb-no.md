@@ -34,5 +34,5 @@ Inni parantesene til `console.log()`, kall `eat()` funksjonen med stringen `bana
 Se om programmet ditt er riktig ved å kjøre kommandoen:
 
 ```bash
-javascripting verify functions.js
+npm run javascripting verify ./06week/javascripting/functions.js
 ```

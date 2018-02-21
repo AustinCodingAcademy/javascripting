@@ -28,5 +28,5 @@ Usa `console.log()` per stampare l'oggetto `pizza` sul terminale.
 Verifica che il tuo programma sia corretto eseguendo questo comando:
 
 ```bash
-javascripting verify objects.js
+npm run javascripting verify ./06week/javascripting/objects.js
 ```

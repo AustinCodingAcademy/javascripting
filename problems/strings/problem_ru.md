@@ -27,5 +27,5 @@ var someString = 'this is a string';
 Чтобы удостовериться в правильности решения задачи, запустите следующую команду из терминала:
 
 ```bash
-javascripting verify strings.js
+npm run javascripting verify ./06week/javascripting/strings.js
 ```

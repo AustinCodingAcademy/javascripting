@@ -25,5 +25,5 @@ Use o `console.log()` para imprimir o número no terminal.
 Verifique se o seu programa está correto executando o comando:
 
 ```bash
-javascripting verify rounding-numbers.js
+npm run javascripting verify ./06week/javascripting/rounding-numbers.js
 ```

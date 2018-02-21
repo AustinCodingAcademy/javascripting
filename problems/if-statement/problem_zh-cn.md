@@ -27,5 +27,5 @@ if (n > 1) {
 运行下面的命令检查你的程序是否正确：
 
 ```bash
-javascripting verify if-statement.js
+npm run javascripting verify ./06week/javascripting/if-statement.js
 ```

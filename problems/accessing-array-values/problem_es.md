@@ -41,5 +41,5 @@ Usa `console.log()` para imprimir el `segundo` valor del array en la terminal.
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
 ```bash
-javascripting verify accediendo-valores-array.js
+npm run javascripting verify ./06week/javascripting/accediendo-valores-array.js
 ```

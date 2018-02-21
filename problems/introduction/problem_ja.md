@@ -28,6 +28,6 @@ console.log('hello');
 ファイルを保存します。次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
 ```bash
-javascripting verify introduction.js
+npm run javascripting verify ./06week/javascripting/introduction.js
 ```
 

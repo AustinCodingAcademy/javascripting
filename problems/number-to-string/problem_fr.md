@@ -20,5 +20,5 @@ Utilisez `console.log()` pour afficher le résultat de la méthode `.toString()`
 Vérifiez si votre programme est correct en exécutant la commande :
 
 ```bash
-javascripting verify nombre-en-chaine.js
+npm run javascripting verify ./06week/javascripting/nombre-en-chaine.js
 ```

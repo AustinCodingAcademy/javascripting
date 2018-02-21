@@ -33,11 +33,11 @@ console.log('hello');
 Сохраните файл, и, чтобы проверить что ваша программа работает правильно, запустите в терминале следующую команду:
 
 ```bash
-javascripting verify introduction.js
+npm run javascripting verify ./06week/javascripting/introduction.js
 ```
 
 Кстати, работая с практическими заданиями, можете называть файлы как вам нравится, если например для каждого упражнения вы хотите использовать файл с именем `catsAreAwesome.js`, полный вперёд! Просто удостоверьтесь, что вы запускаете в терминале:
 
 ```bash
-javascripting verify catsAreAwesome.js
+npm run javascripting verify ./06week/javascripting/catsAreAwesome.js
 ```

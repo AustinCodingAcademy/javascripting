@@ -47,5 +47,5 @@ Utiliza `console.log()` para imprimir el array filtrado a la terminal.
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
 ```
-javascripting verify filtrado-de-arrays.js
+npm run javascripting verify ./06week/javascripting/filtrado-de-arrays.js
 ```

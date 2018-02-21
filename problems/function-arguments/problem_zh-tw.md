@@ -31,5 +31,5 @@ example('hello', 'world');
 執行下面的命令來檢查你撰寫的程式是否正確：
 
 ```bash
-javascripting verify function-arguments.js
+npm run javascripting verify ./06week/javascripting/function-arguments.js
 ```

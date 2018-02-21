@@ -35,5 +35,5 @@ Após o loop, use o `console.log()` para imprimir a variável `total` ao termina
 Verifique se o seu programa está correto executando este comando:
 
 ```bash
-javascripting verify for-loop.js
+npm run javascripting verify ./06week/javascripting/for-loop.js
 ```

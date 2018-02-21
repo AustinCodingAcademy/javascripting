@@ -41,5 +41,5 @@ Pay close attention to the syntax used throughout your solution. Use `console.lo
 Check to see if your program is correct by running this command:
 
 ```bash
-javascripting verify array-filtering.js
+npm run javascripting verify ./06week/javascripting/array-filtering.js
 ```

@@ -72,5 +72,5 @@ console.log("a: "+a+", b: "+b+", c: "+c);
 Чтобы удостовериться в правильности решения задачи, запустите следующую команду из терминала:
 
 ```bash
-javascripting verify scope.js
+npm run javascripting verify ./06week/javascripting/scope.js
 ```

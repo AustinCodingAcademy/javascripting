@@ -15,5 +15,5 @@ Bruk `console.log()` til å skrive ut `pizzaToppings` arrayet til skjermen.
 Se om programmet ditt er riktig ved å kjøre kommandoen:
 
 ```bash
-javascripting verify arrays.js
+npm run javascripting verify ./06week/javascripting/arrays.js
 ```

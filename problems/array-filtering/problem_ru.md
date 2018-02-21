@@ -41,5 +41,5 @@ function evenNumbers (number) {
 Чтобы удостовериться в правильности решения задачи, запустите следующую команду из терминала:
 
 ```bash
-javascripting verify array-filtering.js
+npm run javascripting verify ./06week/javascripting/array-filtering.js
 ```

@@ -20,5 +20,5 @@ Usa `console.log()` per stampare i risultati del metodo `.toString()` sul termin
 Verifica che il tuo programma sia corretto eseguendo questo comando:
 
 ```bash
-javascripting verify number-to-string.js
+npm run javascripting verify ./06week/javascripting/number-to-string.js
 ```

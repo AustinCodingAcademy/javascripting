@@ -32,5 +32,5 @@ example('hello', 'world');
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
 ```bash
-javascripting verify function-arguments.js
+npm run javascripting verify ./06week/javascripting/function-arguments.js
 ```

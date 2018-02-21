@@ -28,5 +28,5 @@ serves: 2
 Перевірте вашу відповідь запустивши команду:
 
 ```bash
-javascripting verify objects.js
+npm run javascripting verify ./06week/javascripting/objects.js
 ```

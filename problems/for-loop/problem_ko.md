@@ -35,5 +35,5 @@ for 반복문 다음에, `console.log()`를 사용해 `total` 변수를 터미�
 이 명령어를 실행해 프로그램이 올바른지 확인하세요.
 
 ```bash
-javascripting verify for-loop.js
+npm run javascripting verify ./06week/javascripting/for-loop.js
 ```

@@ -28,5 +28,5 @@ var pizza = {
 Чтобы удостовериться в правильности решения задачи, запустите в терминале следующую команду:
 
 ```bash
-javascripting verify objects.js
+npm run javascripting verify ./06week/javascripting/objects.js
 ```

@@ -33,5 +33,5 @@ Dans les parenthèses de `console.log()`, appelez la fonction `eat()` avec la ch
 Vérifiez si votre programme est correct en exécutant la commande :
 
 ```bash
-javascripting verify fonctions.js
+npm run javascripting verify ./06week/javascripting/fonctions.js
 ```

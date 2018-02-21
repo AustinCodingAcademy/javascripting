@@ -25,5 +25,5 @@ console.log(example);
 Чтобы удостовериться в правильности решения задачи, запустите следующую команду из терминала:
 
 ```bash
-javascripting verify revising-strings.js
+npm run javascripting verify ./06week/javascripting/revising-strings.js
 ```

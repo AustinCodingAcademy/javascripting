@@ -67,5 +67,5 @@ console.log("a: " + a + ", b: " + b + ", c: " + c);
 Check to see if your program is correct by running this command:
 
 ```bash
-javascripting verify scope.js
+npm run javascripting verify ./06week/javascripting/scope.js
 ```

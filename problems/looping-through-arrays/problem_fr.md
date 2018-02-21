@@ -41,5 +41,5 @@ Après la boucle for, utilisez `console.log()` pour afficher le tableau `pets` d
 Vérifiez si votre programme est correct en exécutant la commande :
 
 ```bash
-javascripting verify iterer-dans-des-tableaux.js
+npm run javascripting verify ./06week/javascripting/iterer-dans-des-tableaux.js
 ```

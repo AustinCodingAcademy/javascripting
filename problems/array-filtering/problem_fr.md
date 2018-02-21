@@ -41,5 +41,5 @@ Utilisez `console.log()` pour afficher le tableau `filtered` dans le terminal.
 Vérifiez que votre programme soit correct en exécutant la commande :
 
 ```bash
-javascripting verify filtrage-de-tableau.js
+npm run javascripting verify ./06week/javascripting/filtrage-de-tableau.js
 ```

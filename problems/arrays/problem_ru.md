@@ -15,5 +15,5 @@ var pets = ['cat', 'dog', 'rat'];
 Чтобы удостовериться в правильности решения задачи, запустите следующую команду из терминала:
 
 ```bash
-javascripting verify arrays.js
+npm run javascripting verify ./06week/javascripting/arrays.js
 ```

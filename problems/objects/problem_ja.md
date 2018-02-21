@@ -31,5 +31,5 @@ var pizza = {
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう...
 
 ```bash
-javascripting verify objects.js
+npm run javascripting verify ./06week/javascripting/objects.js
 ```

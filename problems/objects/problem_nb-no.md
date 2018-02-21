@@ -28,5 +28,5 @@ Bruk `console.log()` for å skrive ut `pizza` objektet til skjermen.
 Se om programmet ditt er riktig ved å kjøre kommandoen:
 
 ```bash
-javascripting verify objects.js
+npm run javascripting verify ./06week/javascripting/objects.js
 ```

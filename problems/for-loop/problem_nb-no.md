@@ -35,5 +35,5 @@ Etter for løkken, bruk `console.log()` til å skrive ut verdien av `total` vari
 Se om programmet ditt er riktig ved å kjøre kommandoen:
 
 ```bash
-javascripting verify for-loop.js
+npm run javascripting verify ./06week/javascripting/for-loop.js
 ```

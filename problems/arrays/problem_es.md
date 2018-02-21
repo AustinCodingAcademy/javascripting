@@ -15,6 +15,6 @@ Utiliza `console.log()` para imprimir la variable `pizzaToppings` a la terminal.
 Comprueba si tu programa es correcto ejecutando el siguiente commando:
 
 ```bash
-javascripting verify arrays.js
+npm run javascripting verify ./06week/javascripting/arrays.js
 ```
 

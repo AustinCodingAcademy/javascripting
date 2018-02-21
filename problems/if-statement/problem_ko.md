@@ -27,5 +27,5 @@ else 블록은 생략 가능하며 구문이 false일 경우 실행될 코드가
 이 명령어를 실행해 프로그램이 올바른지 확인하세요.
 
 ```bash
-javascripting verify if-statement.js
+npm run javascripting verify ./06week/javascripting/if-statement.js
 ```

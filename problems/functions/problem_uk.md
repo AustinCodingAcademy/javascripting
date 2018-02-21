@@ -33,5 +33,5 @@ return food + ' tasted really good.';
 Перевірте вашу відповідь запустивши команду:
 
 ```bash
-javascripting verify functions.js
+npm run javascripting verify ./06week/javascripting/functions.js
 ```

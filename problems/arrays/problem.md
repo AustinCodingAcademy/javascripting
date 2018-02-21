@@ -15,5 +15,5 @@ Use `console.log()` to print the `pizzaToppings` array to the terminal.
 Check to see if your program is correct by running this command:
 
 ```bash
-javascripting verify arrays.js
+npm run javascripting verify ./06week/javascripting/arrays.js
 ```

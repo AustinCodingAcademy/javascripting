@@ -39,5 +39,5 @@ var food = {
 Чтобы удостовериться в правильности решения задачи, запустите в терминале следующую команду:
 
 ```bash
-javascripting verify object-properties.js
+npm run javascripting verify ./06week/javascripting/object-properties.js
 ```

@@ -65,5 +65,5 @@ console.log("a: "+a+", b: "+b+", c: "+c);
 Перевірте вашу відповідь запустивши команду:
 
 ```bash
-javascripting verify scope.js
+npm run javascripting verify ./06week/javascripting/scope.js
 ```

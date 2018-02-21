@@ -31,5 +31,5 @@ example('hello', 'world');
 Чтобы удостовериться в правильности решения задачи, запустите в терминале следующую команду:
 
 ```bash
-javascripting verify function-arguments.js
+npm run javascripting verify ./06week/javascripting/function-arguments.js
 ```

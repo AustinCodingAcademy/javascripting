@@ -28,5 +28,5 @@ var pizza = {
 執行下面的命令檢查你寫的程式是否正確：
 
 ```bash
-javascripting verify objects.js
+npm run javascripting verify ./06week/javascripting/objects.js
 ```

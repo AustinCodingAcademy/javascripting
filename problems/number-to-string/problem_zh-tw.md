@@ -20,5 +20,5 @@ n = n.toString();
 執行下面的命令來檢查你撰寫的程式是否正確：
 
 ```bash
-javascripting verify number-to-string.js
+npm run javascripting verify ./06week/javascripting/number-to-string.js
 ```

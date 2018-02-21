@@ -31,5 +31,5 @@ Tilslutt, inni parantesene til `console.log`, kaller du `match` funksjonen med n
 Se om programmet ditt er riktig ved å kjøre kommandoen:
 
 ```bash
-javascripting verify function-arguments.js
+npm run javascripting verify ./06week/javascripting/function-arguments.js
 ```

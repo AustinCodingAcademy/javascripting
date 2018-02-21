@@ -41,5 +41,5 @@ Bruk `console.log()` til å skrive ut den `andre` verdien av det arrayet til skj
 Se om programmet ditt er riktig ved å kjøre kommandoen:
 
 ```bash
-javascripting verify accessing-array-values.js
+npm run javascripting verify ./06week/javascripting/accessing-array-values.js
 ```

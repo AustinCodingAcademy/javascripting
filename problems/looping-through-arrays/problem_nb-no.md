@@ -41,5 +41,5 @@ Etter den for løkken, bruk `console.log()` for å skrive ut `pets` arrayet til 
 Se om programmet ditt er riktig ved å kjøre denne kommandoen:
 
 ```bash
-javascripting verify looping-through-arrays.js
+npm run javascripting verify ./06week/javascripting/looping-through-arrays.js
 ```

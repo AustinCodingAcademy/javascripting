@@ -31,7 +31,7 @@ console.log('hello');
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
 ```bash
-javascripting verify introduction.js
+npm run javascripting verify ./06week/javascripting/introduction.js
 ```
 
 

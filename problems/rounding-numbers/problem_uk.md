@@ -25,5 +25,5 @@ Math.round(0.5);
 Перевірте вашу відповідь запустивши команду:
 
 ```bash
-javascripting verify rounding-numbers.js
+npm run javascripting verify ./06week/javascripting/rounding-numbers.js
 ```

@@ -25,5 +25,5 @@ console.log('hello');
 保存文件，运行下面的命令来检查你的程序是否正确：
 
 ```bash
-javascripting verify introduction.js
+npm run javascripting verify ./06week/javascripting/introduction.js
 ```

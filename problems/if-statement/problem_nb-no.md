@@ -28,5 +28,5 @@ Hvis ikke, skriv ut "**The fruit name has five characters or less.**" til skjerm
 Se om programmet ditt er riktig ved å kjøre kommandoen:
 
 ```bash
-javascripting verify if-statement.js
+npm run javascripting verify ./06week/javascripting/if-statement.js
 ```

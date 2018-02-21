@@ -28,5 +28,5 @@ if (n > 1) {
 Перевірте вашу відповідь запустивши команду:
 
 ```bash
-javascripting verify if-statement.js
+npm run javascripting verify ./06week/javascripting/if-statement.js
 ```

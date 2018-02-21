@@ -31,5 +31,5 @@ After that, inside the parentheses of `console.log()`, call the `math()` functio
 Check to see if your program is correct by running this command:
 
 ```bash
-javascripting verify function-arguments.js
+npm run javascripting verify ./06week/javascripting/function-arguments.js
 ```

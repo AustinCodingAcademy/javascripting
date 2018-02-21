@@ -15,5 +15,5 @@ Utilisez `console.log()` pour afficher le tableau `pizzaToppings` dans le termin
 Vérifiez si votre programme est correct en exécutant la commande :
 
 ```bash
-javascripting verify tableaux.js
+npm run javascripting verify ./06week/javascripting/tableaux.js
 ```

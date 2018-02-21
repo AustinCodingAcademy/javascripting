@@ -41,5 +41,5 @@ var food = ['apple', 'pizza', 'pear'];
 執行下面的命令來檢查你的程式是否正確：
 
 ```bash
-javascripting verify accessing-array-values.js
+npm run javascripting verify ./06week/javascripting/accessing-array-values.js
 ```

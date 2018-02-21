@@ -42,5 +42,5 @@ function evenNumbers (number) {
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
 ```bash
-javascripting verify array-filtering.js
+npm run javascripting verify ./06week/javascripting/array-filtering.js
 ```

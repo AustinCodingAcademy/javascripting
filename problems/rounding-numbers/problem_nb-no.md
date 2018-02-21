@@ -26,5 +26,5 @@ Bruk `console.log()` for å skrive det nummeret til skjermen.
 Se om programmet ditt er riktig ved å kjøre denne:
 
 ```bash
-javascripting verify rounding-numbers.js
+npm run javascripting verify ./06week/javascripting/rounding-numbers.js
 ```

@@ -41,5 +41,5 @@ var food = ['apple', 'pizza', 'pear'];
 Перевірте вашу відповідь запустивши команду:
 
 ```bash
-javascripting verify accessing-array-values.js
+npm run javascripting verify ./06week/javascripting/accessing-array-values.js
 ```

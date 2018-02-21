@@ -39,5 +39,5 @@ var food = {
 运行下面的命令来检查你的程序是否正确：
 
 ```bash
-javascripting verify object-properties.js
+npm run javascripting verify ./06week/javascripting/object-properties.js
 ```

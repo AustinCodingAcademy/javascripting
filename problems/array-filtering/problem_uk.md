@@ -41,5 +41,5 @@ return number % 2 === 0;
 Перевірте вашу відповідь запустивши команду:
 
 ```bash
-javascripting verify array-filtering.js
+npm run javascripting verify ./06week/javascripting/array-filtering.js
 ```

@@ -33,5 +33,5 @@ return food + ' tasted really good.';
 執行下面的命令檢查你撰寫的程式是否正確：
 
 ```bash
-javascripting verify functions.js
+npm run javascripting verify ./06week/javascripting/functions.js
 ```

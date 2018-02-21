@@ -42,5 +42,5 @@ forループが終わったら、 `console.log()` を使って配列 `pets` を�
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
 ```bash
-javascripting verify looping-through-arrays.js
+npm run javascripting verify ./06week/javascripting/looping-through-arrays.js
 ```

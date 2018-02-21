@@ -35,5 +35,5 @@ total += i;
 Перевірте вашу відповідь запустивши команду:
 
 ```bash
-javascripting verify for-loop.js
+npm run javascripting verify ./06week/javascripting/for-loop.js
 ```

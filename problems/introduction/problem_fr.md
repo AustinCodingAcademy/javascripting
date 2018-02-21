@@ -33,12 +33,12 @@ console.log('hello');
 Sauvegardez le fichier, puis vérifiez si votre programme s'exécute correctement avec cette commande :
 
 ```bash
-javascripting verify introduction.js
+npm run javascripting verify ./06week/javascripting/introduction.js
 ```
 
 Au passage, tout au long de ce tutoriel, vous pouvez donner nommer les fichiers comme bon vous semble, donc si vous voulez utiliser quelque chose comme `lesChatsSontGeniaux.js` comme nom de fichier pour tous les exercices, vous pouvez. Assurez-vous juste d'exécuter :
 
 ```bash
-javascripting verify lesChatsSontGeniaux.js
+npm run javascripting verify ./06week/javascripting/lesChatsSontGeniaux.js
 ```
 

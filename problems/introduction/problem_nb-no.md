@@ -33,5 +33,5 @@ console.log('hello');
 Lagre filen, deretter sjekker du om programmet er korrekt ved å kjøre følgende kommando:
 
 ```bash
-javascripting verify introduction.js
+npm run javascripting verify ./06week/javascripting/introduction.js
 ```

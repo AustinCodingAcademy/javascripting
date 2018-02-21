@@ -40,5 +40,5 @@ Utilisez `console.log()` pour afficher la `deuxième` valeur du tableau dans le 
 Vérifiez si votre programme est correct en exécutant la commande :
 
 ```bash
-javascripting verify acces-valeurs-tableau.js
+npm run javascripting verify ./06week/javascripting/acces-valeurs-tableau.js
 ```

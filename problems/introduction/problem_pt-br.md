@@ -32,7 +32,7 @@ console.log('hello');
 Salve o arquivo, e então verifique se o seu programa está correto executando este comando:
 
 ```bash
-javascripting verify introduction.js
+npm run javascripting verify ./06week/javascripting/introduction.js
 ```
 
 

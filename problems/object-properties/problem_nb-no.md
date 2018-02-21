@@ -39,5 +39,5 @@ Bruk `console.log()` til å skrive ut `types` egenskapen av `food` objektet til 
 Se om programmet ditt er riktig ved å kjøre denne kommandoen:
 
 ```bash
-javascripting verify object-properties.js
+npm run javascripting verify ./06week/javascripting/object-properties.js
 ```

@@ -41,5 +41,5 @@ Al termine del ciclo for, usa `console.log()` per stampare l'array `pets` sul te
 Verifica che il tuo programma sia corretto eseguendo questo comando:
 
 ```bash
-javascripting verify looping-through-arrays.js
+npm run javascripting verify ./06week/javascripting/looping-through-arrays.js
 ```

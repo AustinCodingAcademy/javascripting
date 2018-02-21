@@ -35,11 +35,11 @@ console.log('hello');
 파일을 저장하고 프로그램이 올바른지 다음 명령어를 실행해 확인하세요.
 
 ```bash
-javascripting verify introduction.js
+npm run javascripting verify ./06week/javascripting/introduction.js
 ```
 
 하지만 튜토리얼 내내 편한 이름을 사용하셔도 됩니다. 모든 연습 문제에 `catsAreAwesome.js` 같은 이름을 사용하시고 싶다면, 그럴 수 있습니다. 그냥 다음 명령어를 실행해 확인하세요.
 
 ```bash
-javascripting verify catsAreAwesome.js
+npm run javascripting verify ./06week/javascripting/catsAreAwesome.js
 ```

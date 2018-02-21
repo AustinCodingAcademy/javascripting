@@ -35,5 +35,5 @@ For 循环结束后，使用 `console.log()` 打印 `total` 变量到终端。
 运行下面的命令来检查你的程序是否正确：
 
 ```bash
-javascripting verify for-loop.js
+npm run javascripting verify ./06week/javascripting/for-loop.js
 ```

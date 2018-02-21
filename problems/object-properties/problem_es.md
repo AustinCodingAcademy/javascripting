@@ -39,5 +39,5 @@ Utiliza `console.log()` para imprimir la propiedad `types` del objeto `food` a l
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
 ```bash
-javascripting verify object-properties.js
+npm run javascripting verify ./06week/javascripting/object-properties.js
 ```

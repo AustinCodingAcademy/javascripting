@@ -43,7 +43,7 @@ https://docs.npmjs.com/getting-started/fixing-npm-permissions
 Open your terminal and run the following command:
 
 ```
-javascripting
+npm run javascripting
 ```
 
 You'll see the menu:

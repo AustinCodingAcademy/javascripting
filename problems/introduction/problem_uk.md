@@ -32,11 +32,11 @@ console.log('hello');
 Збережіть файл, а потім перевірте вашу програму запустивши команду:
 
 ```bash
-javascripting verify introduction.js
+npm run javascripting verify ./06week/javascripting/introduction.js
 ```
 
 До речі, на процязі цього курсу ви можете можете називати файли так, як вам подобається. Якщо ви хочете назвати файл ім’ям `catsAreAwesome.js` для кожної вправи, то зробіть це. Лише не забудьте потім перевірити його:
 
 ```bash
-javascripting verify catsAreAwesome.js
+npm run javascripting verify ./06week/javascripting/catsAreAwesome.js
 ```

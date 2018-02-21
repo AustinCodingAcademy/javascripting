@@ -41,5 +41,5 @@ Use o `console.log()` para imprimir o array `filtered` no terminal.
 Verifique se o seu programa está correto executando este comando:
 
 ```bash
-javascripting verify array-filtering.js
+npm run javascripting verify ./06week/javascripting/array-filtering.js
 ```
